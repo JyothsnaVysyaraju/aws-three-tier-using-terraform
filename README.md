@@ -1,3 +1,4 @@
+<img width="1357" height="754" alt="image" src="https://github.com/user-attachments/assets/6f5ebf5c-1aa1-449c-a34a-a4c32ecc2e85" />
 # aws-three-tier-using-terraform
 
 Highly available 3-tier application: Node.js frontend, Go backend, PostgreSQL database.
